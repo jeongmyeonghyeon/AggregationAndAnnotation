@@ -39,6 +39,7 @@ INSTALLED_APPS = [
     'django.contrib.staticfiles',
 
     'aggregation_and_annotation_practice',
+    'django_extensions',
 ]
 
 MIDDLEWARE = [
